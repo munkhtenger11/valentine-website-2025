@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Tegvel will you be my Valentine on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -41,7 +41,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Bayarllaaa kkk! 🎉💝💖💝💓",
+        title: "Bayarllaaa kkk ! 🎉💝💖💝💓",
         message: "Taniig margaash Asound lemons choijoogiin togloltond urij baina kkk!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
